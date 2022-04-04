@@ -14,7 +14,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-[d](https://github.com/hind-hb/read/blob/gh-pages/read.md)
+
 - Bulleted
 - List
 
